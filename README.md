@@ -4,10 +4,6 @@ kong网关的docker-compose文件，可用
 
 ## 参考
 
-- Docker Installation
+- [Docker Installation](https://docs.konghq.com/install/docker/ "Docker Installation")
 
-https://docs.konghq.com/install/docker/
-
-- 使用Kong和Konga管理微服务和API
-
-https://segmentfault.com/a/1190000020375323?utm_source=tag-newest
+- [使用Kong和Konga管理微服务和API](https://segmentfault.com/a/1190000020375323 "使用Kong和Konga管理微服务和API")
